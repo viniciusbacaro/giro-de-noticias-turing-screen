@@ -142,3 +142,9 @@ tmp
 
 version.txt
 external/LibreHardwareMonitor/LibreHardwareMonitorLib.sys
+# Giro de Notícias: backups e arquivos locais
+noticias.py.backup*
+config.yaml.backup*
+log.log
+__pycache__/
+*.pyc
